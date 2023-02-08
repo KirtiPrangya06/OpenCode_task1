@@ -1,0 +1,16 @@
+1. Git is a free open source software used to mannage all source code history whereas Github is a web based platform which provides developer tolls required .
+Git is a command line tool whereas Github is a graphical user interface .
+Git has no uaee management feature while Github has a built in user management feature.
+
+2.git add:This will add the specofied files into the git repository, where they are already being tracked by Git .
+git clone:This imports the files of a project ferom the remote repository to ou local system.
+git commit: This command recors files permanantly in the version history.
+git pull:The git pull command first runs 'git fetch' which downloads the content from specific remote repository.
+git push:this helps us to make some changes to our remote repository on a particular branch.
+
+3.steps:
+step 1 : switch to the branch that you want to create a pull requeast for.
+step 2: click create pull request, this will open your default browser to take you to Github.
+step 3: On GitHub confirm that the branch in the base- dropdown menu is the branch where you want to merge your changes .
+atep 4: Type a title and description for your pull request.
+step 5: click create pull request .
